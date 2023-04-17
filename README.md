@@ -1,5 +1,5 @@
 # Portfolio Optimization
-This project covers portfolio optimization using Linear Programming
+This project covers optimization of a marketing portfolio using Linear Programming
 
 ## Problem Description
 
